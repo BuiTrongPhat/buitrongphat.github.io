@@ -118,4 +118,6 @@ span:hover{
 	button a:hover{
 		 color: blue;
 	}
-	
+	.car a img {
+		vertical-align: middle;
+	}
