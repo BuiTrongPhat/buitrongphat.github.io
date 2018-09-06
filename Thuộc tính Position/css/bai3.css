@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+body{
+	
+	width: auto;
+	margin: 0 auto;
+	background:#333;
+
+}
+#wraper{
+	position: relative;
+}
+.dautrang{
+	height:100px;
+	background: #999;
+	text-align: center;
+	padding-top::;px;
+	text-transform: uppercase;
+}
+
+.xe{
+	float:left;
+	margin-right:25px;
+	border-radius: 30px solid red;
+}
+.car{
+		
+		width:auto;
+		margin:0 auto;
+		max-width:1000px;
+
+
+}
+
+h1{
+	color: #fff;
+	padding-top: 30px;
+}
+.xe img{
+	margin-top: 30px;
+	border: 1px solid #C6E2FF;
+	border-radius: 50%;
+	margin-right:auto;
+}
+img:hover{
+	opacity:0.5;
+	/*border: 2px solid #000;*/
+}
+span{margin-left: 120px;}
+span:hover{
+	color: blue;
+
+}
+.car a:link {
+    color: #fff;
+    text-decoration: none;
+}
+.car a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+.dautrang img{
+	float: left;
+	margin:0 auto;		
+	border-right: 1px solid #000;
+	
+}
+#menu{
+	margin:50px 0px;
+	margin-left: 100px;
+	position: absolute;
+	border-left: 3px solid blue;
+	padding: 10px;
+	left: -80;
+}
+#menu a{
+	
+	color: #99FFFF;
+ 	text-decoration: none;
+	text-transform: uppercase;
+	margin-bottom: 100px;
+}
+#menu a:hover{
+	color: #fff;
+}
+/*#menu > p:first-child {
+	
+	
+	position: absolute;
+	top: -20px;
+	left: 10px;
+}*/
+.clear{
+		clear:both;
+	}
+#backtotop{
+		height: 40px;
+		position: fixed;
+		right: 10px;
+		bottom: 0;
+
+
+	}
+	button{
+		height: 30px;
+		border:1px solid black;
+
+	}
+	button a{
+		 text-decoration: none;
+		 text-transform: uppercase;
+		 font-weight: bold;
+	}
+	button a:visited{
+		color: #000;
+	}
+	button a:hover{
+		 color: blue;
+	}
+	
