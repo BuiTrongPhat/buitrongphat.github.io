@@ -6,6 +6,7 @@
 }
 body{
 	background: #FFFF66;
+	 font-family: "Open Sans Condensed";
 }
 li{list-style: none;}
 a{
@@ -24,7 +25,7 @@ a{
 }
 .main_menu{
 	background: #500663;
-	
+	font-family: "Open Sans Condensed" , Roboto;
 
 }
 .main_menu > ul > li{
@@ -78,13 +79,13 @@ h2{
 	margin-top:30px;
 	text-transform: uppercase;
 	color: #304bce;
-	
+	font-family: "Open Sans Condensed" , Roboto;
 }
 
 #four_columns .img-item a{
 	text-transform: uppercase;
 	color: #666;
-
+	font-family: "Open Sans Condensed" , Roboto ;
 }
 #four_columns .img-item img{
 	width: 200px;
@@ -96,4 +97,5 @@ p{
 	margin-bottom: 50px;
 	text-align: center;
 	font-weight: bold;
+	font-family: "Open Sans Condensed" , Roboto;
 }
