@@ -35,7 +35,7 @@ a{
 	position: relative;
 	border-right: 1px solid #fff;
 }
-.main_menu > ul > li :last-child {
+.main_menu > ul > li:last-child {
 	border-right:none;
 }
 .main_menu> ul> li> ul {

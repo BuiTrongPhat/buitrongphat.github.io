@@ -1,0 +1,378 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+li{list-style: none;}
+a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 17px;
+}
+.clear{
+	clear: both;
+}
+header{
+	position: relative;
+	width: auto;
+	max-width: 80%;
+	margin: 0 auto;
+}
+header img{
+	width:100%;
+	height: auto;
+}
+header h1{
+	position: absolute;
+	top: 50%;
+    left: 10%;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+}
+header h1:hover{
+	color: #333;
+	transition: all 0.25s;
+}
+header{
+	background: #333;
+	
+
+}
+.main_menu{
+	position: relative;
+}
+.main_menu > ul > li{
+	float: left;
+	padding: 15px 27px;
+	border-right: 1px solid #666;
+	width: 14%;
+	text-align: center;
+}
+.main_menu ul > li:last-child {
+	border-right:none;
+	width: 18%;
+}
+header ul li:hover{
+	background: #999;
+	transition: all 0.25s;
+}
+#page{
+	background: #dad4d4;
+	position: relative;
+	max-width: 100%;
+	margin: 0 auto;
+
+
+}
+
+#main_content{
+	width: 60%;
+	position: relative;
+	margin:0 0 0 10%;
+	float: left;
+}
+#content{
+	
+	position: relative;
+	width: auto;
+	max-width: 100%;
+}
+
+.main_img a{
+	color: #000;
+	padding: 10px 5px;
+	font-family: "Time New Roman";
+}
+.main_img a img{
+	margin-top: 30px;
+	width: 90%;
+	
+}
+.main_img a:hover{
+	color: #0b1ea5;
+	transition: all 0.25s;
+}
+.main_img{
+	width: 75%;
+	height: 380px;
+	float: left;
+	border-bottom: 1px solid #333;
+}
+.tab {
+	margin-top:30px;
+	width: 25%;
+	height: 350px;
+	float: left;
+	position: absolute;
+	left: 77%;
+	border:1px solid #333;
+	background: #999;
+	font-style: italic;
+	color: #000;
+	padding:10px;
+}
+.tab p{
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	font-style: normal;
+	color: #000;
+}
+.tab a{
+	color: #000;
+}
+
+.tab-lst li a:hover{
+	color: #fff;
+	transition: all 0.25s;
+}
+#four_columns{
+	position: relative;
+	width: auto;
+	max-width: 100%;
+
+	border-bottom: 1px solid #333;
+}
+#four_columns h3{
+			border-bottom:1px solid #D6D0C1;
+			font-size:15px;
+			margin-bottom:20px;		
+			padding:20px 0px;
+			color: #333;
+		
+	}
+#four_columns .img-item{
+		float:left;
+		margin-right:30px;
+		width: 21%;
+	
+	}
+	#four_columns .img-item img{
+	width: 100%;
+	height: 100px;
+	}
+	.img-item a{
+		color: #000;
+	}
+.img-item a:hover{
+	color: #333;
+	opacity: 0.7;
+	transition: all 0.25s;
+}
+
+#slider_content{
+		position:relative;
+		font-family:'Open Sans', sans-serif;
+		width: 100%;
+		max-width: 100%;
+		line-height:25px;
+		z-index:1;
+		display:block;
+		margin:30px 0%;
+	}
+#slider_content h3{
+			color:#EBE8DE;
+			font-size:25px;
+			font-weight:bold;
+			margin-bottom:10px;
+			background-color:#333333;
+			padding:10px 15px;
+			border-radius:15px 0 15px 0;
+			display:inline-block;
+			
+		}
+
+	#slider_content p{
+			margin:30px 0 30px 0;
+			color:#4a463b;
+			background-color:#EBE8DE;
+			padding:10px 15px;
+			border-radius:5px;
+			
+		}
+	#slider {
+			overflow:hidden;
+		}
+	#slider figure{
+			position:relative;
+			width:500%;
+			margin:0;
+			left:0;
+			text-align:left;
+			font-size:0;
+			animation:30s slidy infinite;
+		}
+	#slider figure img{
+			width:20%;
+			height: 300px;
+			float:left;
+			transition: all 0.25s;
+		}
+		@keyframes slidy{
+				0%, 16%{left:0%;}
+				21%, 37%{left:-100%;}
+				42%, 58%{left:-200%;}
+				63%, 79%{left:-300%;}
+				84%,100%{left:-400%;}
+				
+			}
+
+aside{
+	position: absolute;
+	float: left;
+	width: 20%;
+	margin: 30px 0 0px 0;
+	right: 8%;
+}
+aside img{
+	
+	width: 90%;
+	margin-bottom: 70px;
+	height: 150px;
+
+}
+
+#four_columns2{
+	position: relative;
+	width: auto;
+	max-width: 100%;
+	margin-bottom: 30px;
+	
+}
+#four_columns2 h3{
+			border-bottom:1px solid #D6D0C1;
+			font-size:15px;
+			margin-bottom:20px;		
+			padding:20px 0px;
+			color: #333;
+		
+	}
+#four_columns2 .img-item{
+		float:left;
+		margin-right:30px;
+		width: 21%;
+	
+	}
+	#four_columns2 .img-item img{
+	width: 100%;
+	height: 100px;
+	}
+
+
+
+footer{
+	position:relative;
+	clear:both;
+	width:auto;
+	height:350px;
+	background:#333;
+	margin:30px 10%;
+	}
+	#extra_content{
+		line-height:25px;
+		margin:30px auto;
+		padding-top:30px;
+		width:auto;
+		max-width:900px;
+		font-size:14px;
+		}
+#extra_content .column{
+		font-family:'Open Sans', sans-serif;
+		color:#ababab;
+		float:left;
+		width:280px;
+		margin-right:20px;
+		}
+#extra_content 	.column h3{
+		font-size:16px;
+		color:#fff;
+		border-bottom:1px solid #444444;
+		padding:0 0 10px 0;
+		margin-bottom:10px;
+		
+
+		}
+#extra_content .column p{
+	text-align:justify;
+	}
+	
+#extra_content .column.midlist ul li{
+		display:block;
+		width:auto;
+		padding:0 0 10px 25px;
+		margin-bottom:10px;
+		border-bottom:1px solid #444444;
+		background:url(../img/arrowright2.png) left 6px no-repeat;
+
+}
+#extra_content .column.midlist ul li a:hover{
+	color:#000;
+	}
+	
+	#extra_content .column.rightlist ul li {
+    display: block;
+    width: auto;
+    margin-bottom: 15px;
+	margin-top:5px;
+	}
+	
+		#extra_content .column.rightlist ul li a span {
+    margin-left: 95px;
+    display: block;
+}
+	#extra_content .column.rightlist ul li a img{
+		float:left;
+		border:3px solid #444;
+		width:80px;
+	}
+	#extra_content .column.rightlist ul li a:hover{
+		color:#000;
+		}
+		#extra_content .column.rightlist ul li a img:hover{
+		border-color:#5e5e5e;
+		}
+	#page_owner_info{
+		position:absolute;
+		width:100%;
+		height:70px;
+		bottom:0;
+		left:0;
+		background:#000;
+		
+		}
+		#page_owner_info .wraper {
+				position:relative;
+				margin:10px auto;
+				font-family:'Open Sans';
+				font-size:14px;
+				color:#999;
+				width:auto;
+				max-width:900px;
+				line-height:15px;
+				padding-top:5px;
+							}	
+			#page_owner_info .wraper .copy a:hover{
+				color:#0F0;
+				}
+				#page_owner_info .wraper .copy a{
+				color:#CCC;
+				}  
+				#page_owner_info .wraper .social{
+					position:absolute;
+					right:0;
+					top:25px;
+					}
+					#page_owner_info .wraper .social a{
+						margin-left:12px;
+						display:block;
+						float:left;
+						opacity:0.3
+						}
+					#page_owner_info .wraper a img:hover {
+    		opacity:0.7;
+}
+	
