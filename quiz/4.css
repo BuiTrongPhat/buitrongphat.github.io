@@ -1,0 +1,25 @@
+.noidung {
+    background: #47c7dc;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10%;
+    box-sizing: 100&;
+    margin: auto;
+}
+
+body,html {
+    height: 100%;
+    width: 100%;
+    /* background: #312f15; */
+}
+
+.chuongtrinh {
+    font-size: 50px;
+    background-color: none;
+    color: #fff;
+}
+.batdau{
+    margin-top: 5%;
+}
