@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.hang1 .cha{
+	position: relative;
+	cursor: pointer;
+	}
+	.khung{
+		opacity: 0;
+		transition: 0.5s;
+	
+	}
+.hang1 .cha i.fas.fa-eye {
+    position: absolute;
+    bottom:  91px;
+    z-index: 5;
+    left: 9px;
+    color: #fff;
+
+}
+.hang1 .cha i.fas.fa-heart {
+    position: absolute;
+      bottom:  71px;
+    z-index: 5;
+    left: 9px;
+    color: red;
+}
+.hang1 .cha i.fab.fa-hubspot {
+    position: absolute;
+      bottom:  51px;
+    z-index: 5;
+    left: 9px;
+    color: blue;
+}
+.hang1 .cha .the {
+    position: absolute;
+    bottom: 0px;
+    z-index: 4;
+    left: 2px;
+    width: 90%;
+
+}
+.cha:hover .khung{
+	opacity: 1;
+}
+.phanduoi{
+	background-color: #f3ddf7;
+}
+.bacot{
+	background-color: #fff;
+	position: relative;
+	padding-bottom: 30px;
+}
+.thetraiphai{
+	position: absolute;
+    top: 10px;
+    right:  14px;
+}
+.thetraiphai a i:hover{
+	color: #333;
+}
+.nuthome a:hover {
+	color: #333;	
+	font-weight: bold;
+}
+.nuthome a{
+	display: inline-block;
+}
+
+.hangtrongcot span{
+	display: block;
+	font-size: 13px;
+	float: right;
+}
