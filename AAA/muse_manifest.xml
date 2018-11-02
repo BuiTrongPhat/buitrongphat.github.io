@@ -1,0 +1,113 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1541129674008">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="17692057" ref="index:biography:shop"/>
+    <file name="index.css" crc="116849298" ref="index"/>
+    <file name="biography.css" crc="497560881" ref="biography"/>
+    <file name="shop.css" crc="3911352356" ref="shop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shop:biography"/>
+    <file name="museutils.js" crc="163421577" ref="index:shop:biography"/>
+    <file name="whatinput.js" crc="86476730" ref="index:shop:biography"/>
+    <file name="museconfig.js" crc="36584860" ref="index:shop:biography"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:shop:biography"/>
+    <file name="require.js" crc="244322403" ref="index:shop:biography"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1920x1086-crop-u437.jpg" crc="3897827291" ref="index"/>
+    <file name="logo.png" crc="4065991540" seo="true" ref="index"/>
+    <file name="pasted image 750x922-crop-u955.jpg" crc="188111205" ref="index"/>
+    <file name="pasted image 720x616-crop-u990.jpg" crc="254195267" ref="index"/>
+    <file name="pasted image 681x720-crop-u1089.jpg" crc="325453587" ref="index"/>
+    <file name="pasted image 1920x1170-crop-u1216.jpg" crc="3918562590" ref="index"/>
+    <file name="pasted image 1633x2453-crop-u1322.jpg" crc="399854954" ref="index"/>
+    <file name="1-crop-u1391.jpg" crc="3798878870" ref="index"/>
+    <file name="pasted image 480x270-crop-u1489.jpg" crc="4107011029" ref="index"/>
+    <file name="pasted image 480x270-crop-u1517.jpg" crc="434425534" ref="index"/>
+    <file name="pasted image 1920x1349-crop-u1670.jpg" crc="3783928268" ref="index"/>
+    <file name="stats-crop-u1702.png" crc="493366245" ref="index"/>
+    <file name="lio-crop-u1726.png" crc="4075498964" ref="index"/>
+    <file name="pasted image 32x28.jpg" crc="3816320243" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 157x30.jpg" crc="4004186923" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 32x21.jpg" crc="4091292382" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 151x100.jpg" crc="251298514" seo="true" ref="index:shop:biography"/>
+    <file name="barcelona.png" crc="3848719599" seo="true" ref="index"/>
+    <file name="a-crop-u688.png" crc="4242478589" ref="index"/>
+    <file name="pasted image 720x664-crop-u809.jpg" crc="4008786767" ref="index"/>
+    <file name="pasted image 768x960-crop-u919.jpg" crc="4011162685" ref="index"/>
+    <file name="pasted image 960x498-crop-u952.jpg" crc="332778423" ref="index"/>
+    <file name="pasted image 960x960-crop-u1011.jpg" crc="3786317345" ref="index"/>
+    <file name="pasted image 960x960-crop-u1004.jpg" crc="384059204" ref="index"/>
+    <file name="pasted image 720x669-crop-u997.jpg" crc="4252480943" ref="index"/>
+    <file name="pasted image 960x950-crop-u1103.jpg" crc="4145180247" ref="index"/>
+    <file name="pasted image 1000x562-crop-u1082.jpg" crc="295072503" ref="index"/>
+    <file name="pasted image 826x960-crop-u1096.jpg" crc="4113547809" ref="index"/>
+    <file name="m10.png" crc="3766641053" seo="true" ref="index"/>
+    <file name="ytb.jpg" crc="3941176995" seo="true" ref="index"/>
+    <file name="pasted image 480x270-crop-u1411.jpg" crc="3780023055" ref="index"/>
+    <file name="pasted image 480x270-crop-u1418.jpg" crc="4107011029" ref="index"/>
+    <file name="pasted image 480x270-crop-u1425.jpg" crc="401989373" ref="index"/>
+    <file name="pasted image 480x270-crop-u1496.jpg" crc="118974311" ref="index"/>
+    <file name="pasted image 480x270-crop-u1503.jpg" crc="434425534" ref="index"/>
+    <file name="1-crop-u1510.jpg" crc="79971244" ref="index"/>
+    <file name="pasted image 480x270-crop-u1524.jpg" crc="3992736636" ref="index"/>
+    <file name="pasted image 480x270-crop-u1531.jpg" crc="4239749283" ref="index"/>
+    <file name="pasted image 480x270-crop-u1538.jpg" crc="435997376" ref="index"/>
+    <file name="pasted image 50x50.jpg" crc="54053109" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 74x74.jpg" crc="4111687973" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 50x51.jpg" crc="344927671" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 106x73.jpg" crc="75137963" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 74x75.jpg" crc="3878535026" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 278x44.jpg" crc="315152953" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 90x79.jpg" crc="3947060459" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 66x75.jpg" crc="4076502274" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 136x73.jpg" crc="201757572" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 359x85.jpg" crc="145006236" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 226x85.jpg" crc="278491068" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 329x85.jpg" crc="451001116" seo="true" ref="index:shop:biography"/>
+    <file name="pasted image 1920x290.jpg" crc="195360054" seo="true" ref="index:shop:biography"/>
+    <file name="u243-4.png" crc="368768255" ref="index:shop:biography"/>
+    <file name="u249-4.png" crc="3948666993" ref="index:shop:biography"/>
+    <file name="pasted image 1920x1037-crop-u1970.jpg" crc="285590570" ref="shop"/>
+    <file name="stats-crop-u2111.png" crc="28084120" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2087.jpg" crc="4227125800" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2141.jpg" crc="305610819" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2099.jpg" crc="349885412" ref="shop"/>
+    <file name="pasted image 540x960-crop-u2150.jpg" crc="4105134887" ref="shop"/>
+    <file name="logo-crop-u2016.png" crc="4058031929" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2090.jpg" crc="243624295" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2093.jpg" crc="3828197424" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2096.jpg" crc="371012947" ref="shop"/>
+    <file name="pasted image 740x549-crop-u2102.jpg" crc="303204834" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2105.jpg" crc="316444615" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2108.jpg" crc="170905890" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2144.jpg" crc="368802626" ref="shop"/>
+    <file name="pasted image 293x292-crop-u2138.jpg" crc="4166127129" ref="shop"/>
+    <file name="pasted image 720x960-crop-u2147.jpg" crc="3953371061" ref="shop"/>
+    <file name="pasted image 720x405-crop-u2153.jpg" crc="4014402068" ref="shop"/>
+    <file name="pasted image 200x200.jpg" crc="125732028" seo="true" ref="shop"/>
+    <file name="pasted image 750x750.jpg" crc="115645349" seo="true" ref="shop"/>
+    <file name="brush.png" crc="4265782097" seo="true" ref="shop"/>
+    <file name="img-bg-crop-u2680.png" crc="4082445356" ref="biography"/>
+    <file name="u2518-4.png" crc="336596589" ref="biography"/>
+    <file name="u2521-4.png" crc="229877000" ref="biography"/>
+    <file name="u2524-4.png" crc="13890621" ref="biography"/>
+    <file name="img-bg-crop-u2527.png" crc="124153202" ref="biography"/>
+    <file name="u2555-7.png" crc="3885394698" ref="biography"/>
+    <file name="u2567-7.png" crc="3838720917" ref="biography"/>
+    <file name="pasted image 1969x1230-crop-u2576.jpg" crc="3931644255" ref="biography"/>
+    <file name="u2621-7.png" crc="3783884304" ref="biography"/>
+    <file name="pasted image 1107x738-crop-u2643.jpg" crc="4114223033" ref="biography"/>
+    <file name="pasted image 401x754-crop-u2447.jpg" crc="4178410564" ref="biography"/>
+    <file name="u2546-4.png" crc="4092781887" ref="biography"/>
+    <file name="u2552-6.png" crc="4039014771" ref="biography"/>
+    <file name="u2627-4.png" crc="4044658727" ref="biography"/>
+    <file name="firm.png" crc="314990595" seo="true" ref="biography"/>
+    <file name="img-4.png" crc="4078252832" seo="true" ref="biography"/>
+    <file name="m10221x261.png" crc="79701671" seo="true" ref="biography"/>
+  </folder>
+  <file name="index.html" crc="4287822165" seo="true" mt="1541065490243" redirect="true"/>
+  <file name="shop.html" crc="3882515189" seo="true" mt="1541065449937" redirect="true"/>
+  <file name="biography.html" crc="324369100" seo="true" mt="1541126351705" redirect="true"/>
+</manifest>
