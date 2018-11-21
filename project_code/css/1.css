@@ -971,6 +971,9 @@ iframe{
 	height: 300px;
 	transform: translateX(20px) translateY(100px);
 }
+body{
+	overflow-x: hidden;
+}
 
   }
   @media screen and (max-width: 768px) {
@@ -992,4 +995,7 @@ iframe{
 }
 #soluongsanpham{
 	padding-top: 5%;
+}
+@media all and (max-width: 320px) {
+	
 }
