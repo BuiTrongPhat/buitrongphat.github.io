@@ -402,7 +402,7 @@ function banner1(){
 }
 function thoigian(){
 	var today= new Date();
-	var eventDate = new Date("November 24,2018 22:15:00");
+	var eventDate = new Date("December 29,2018 22:15:00");
 
 	var currentTime = today.getTime();
 	var eventTime = eventDate.getTime();
